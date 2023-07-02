@@ -5,9 +5,9 @@
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
     http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
-<!--    <bean id="doctor" class="com.jdbcexample.demo.testing.Doctor">-->
+<!--    <bean id="doctor" class="testing.com.example.demo.Doctor">-->
 <!--        <constructor-arg value="vimal"></constructor-arg>-->
 <!--    </bean>-->
-<!--    <bean id="nurse" class="com.jdbcexample.demo.testing.Nurse"></bean>-->
+<!--    <bean id="nurse" class="testing.com.example.demo.Nurse"></bean>-->
 <!--        <context:component-scan base-package="com"></context:component-scan>-->
 </beans>

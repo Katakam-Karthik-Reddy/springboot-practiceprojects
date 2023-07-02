@@ -1,4 +1,4 @@
-package com.jdbcexample.demo.testing;
+package com.example.demo.testing;
 
 public interface Stuff {
     public void assist();

@@ -1,4 +1,4 @@
-package com.jdbcexample.demo.testing;
+package com.example.demo.testing;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

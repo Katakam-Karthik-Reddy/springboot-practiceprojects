@@ -1,7 +1,5 @@
-package com.jdbcexample.demo;
+package com.example.demo;
 
-import com.jdbcexample.demo.testing.Doctor;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 

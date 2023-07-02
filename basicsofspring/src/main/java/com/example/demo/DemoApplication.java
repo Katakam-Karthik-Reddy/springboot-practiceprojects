@@ -1,12 +1,9 @@
-package com.jdbcexample.demo;
+package com.example.demo;
 
-import com.jdbcexample.demo.testing.Nurse;
-import com.jdbcexample.demo.testing.Stuff;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.jdbcexample.demo.testing.Doctor;
+import com.example.demo.testing.Doctor;
 
 public class DemoApplication {
 
